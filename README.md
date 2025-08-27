@@ -174,15 +174,6 @@ Packet replay engine
 Root-enabled sniffing support (if device is rooted)
 
 
-
----
-
-🦊 Author
-
-PF15 by [YourName]
-Special project for making penetration testing portable on Android.
-
-
 ---
 
 📜 Disclaimer
@@ -193,9 +184,27 @@ You are responsible for your own actions.
 
 ---
 
-**📜 License**
+## ⚖️ Copyright & Attribution
 
-This project is open-source and free to use for educational and privacy purposes. 🚀
+- This project **does not claim ownership** of external tools or libraries such as:
+  - [Nmap](https://nmap.org) © Gordon Lyon and the Nmap Project
+  - [Scapy](https://scapy.net) © Philippe Biondi and contributors
+  - Python, pip, and related open-source dependencies
+
+- All trademarks, package names, and logos mentioned are the property of their **respective owners**.  
+- This repository only provides:
+  - Custom scripts (`pf15.py`)
+  - Integration steps for using Nmap & Scapy inside Termux (non-root Android)
+  - Documentation (`README.md`)  
+
+- Original code & documentation in this repository are © 2025 [Your Name or GitHub Username], released under the license below.
+
+---
+
+📜 License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute it, provided proper credit is given.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
