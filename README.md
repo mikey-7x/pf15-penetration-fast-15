@@ -30,31 +30,31 @@ This project bypasses Linux kernel dependencies that normally break Scapy in Ter
 
 ## 🛠 Installation
 
-### 1. Update packages
+1. Update packages
 ```bash
 pkg update && pkg upgrade -y
 ```
 2. Install requirements
 
-# Python & tools
+Python & tools
 ```
 pkg install python -y
 pkg install git -y
 ```
 
-# Optional virtual environment
+create virtual environment
 ```
 pip install virtualenv
 virtualenv lt
 source lt/bin/activate
 ```
 
-# Python libraries
+Python libraries
 ```
 pip install scapy
 ```
 
-# Nmap
+Nmap
 ```
 pkg install nmap -y
 ```
