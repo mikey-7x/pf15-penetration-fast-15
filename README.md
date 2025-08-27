@@ -197,7 +197,7 @@ You are responsible for your own actions.
   - Integration steps for using Nmap & Scapy inside Termux (non-root Android)
   - Documentation (`README.md`)  
 
-- Original code & documentation in this repository are © 2025[mikey-7x], released under the license below.
+- Original code & documentation in this repository are © 2025 mikey-7x, released under the license below.
 
 ---
 
