@@ -82,7 +82,7 @@ nmap -Pn -A 192.168.213.243
 
 1.install script:
 ```
-nano pf15.py
+git clone https://github.com/mikey-7x/pf15-penetration-fast-15.git
 ```
 
 3. Run it:
